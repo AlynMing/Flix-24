@@ -67,7 +67,22 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="939.13043478260875" y="51.5625"/>
+            <point key="canvasLocation" x="858" y="52"/>
+        </scene>
+        <!--Movie Details View Controller-->
+        <scene sceneID="cvg-NJ-HwP">
+            <objects>
+                <viewController id="1LV-e0-nPR" customClass="MovieDetailsViewController" customModule="Filx" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="wO5-3c-2Ua">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="nKd-UQ-C9x"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Fi9-uC-O0W" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1758" y="52"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="JyP-eE-22L">
